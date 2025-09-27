@@ -1,5 +1,4 @@
 # 💫 About Me:
-## 💻 About Me
 
 I am a dual-focused developer specializing in efficient **PHP web utilities** and powerful **Python scripting** for automation and security research.
 
